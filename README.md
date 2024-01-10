@@ -1,3 +1,2 @@
 # hello-world
-First attempt
-I love program
+First attempt and I love program
